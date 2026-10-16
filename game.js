@@ -1,8 +1,8 @@
-import{drawCharacter,portrait,charactersReady}from'./sprites.js?v=6';
-import{ITEMS,fresh,gain,flag,combine,use,solve,objective,progress}from'./model.js?v=6';
-import{SCENES,LOOK,TALKS}from'./content.js?v=6';
-import{beginDuel}from'./duel.js?v=6';
-import{addTemporal}from'./temporal.js?v=6';addTemporal(SCENES,LOOK,TALKS,ITEMS);
+import{drawCharacter,portrait,charactersReady}from'./sprites.js?v=7';
+import{ITEMS,fresh,gain,flag,combine,use,solve,objective,progress}from'./model.js?v=7';
+import{SCENES,LOOK,TALKS}from'./content.js?v=7';
+import{beginDuel}from'./duel.js?v=7';
+import{addTemporal}from'./temporal.js?v=7';addTemporal(SCENES,LOOK,TALKS,ITEMS);
 const $=s=>document.querySelector(s),modal=$('#modal'),inner=$('#modalInner');let s=fresh(),saved=null,verb='act',selected=null,showSpots=false,subtitleTimer,player={x:440,y:481,target:440},art=new Image(),extra=new Image(),present=new Image(),audio=null,musicTimer=null,beat=0;
 try{saved=JSON.parse(localStorage.getItem('fil-llum-save'));if(saved?.version===2&&SCENES[saved.scene]&&Array.isArray(saved.inventory)&&saved.flags&&Array.isArray(saved.notes))s=saved;else saved=null}catch{}
 art.src='assets/maresme.webp';extra.src='assets/cabrils.webp';present.src='assets/present.webp';
