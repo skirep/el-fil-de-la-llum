@@ -1,6 +1,7 @@
 # Solució completa (conté espòilers)
 
-1. Des de la plaça, carrer de Sant Salvador o mapa → Ca l’Arlot. Parla amb la Pepeta i ofereix-li ajuda. Reps la carta.
+0. Al present (2026), toca l’espiral del quadern a la plaça del Mil·lenari de Catalunya. Viatges a 1956. A partir d’ara el botó Època permet anar i tornar.
+1. A Ca l’Arlot, Parla amb la Pepeta i ofereix-li ajuda. Reps la carta.
 2. Al safareig, agafa el càntir i el full tacat.
 3. Usa el càntir a l’aigua. Selecciona el càntir ple i el full tacat a l’inventari.
 4. Al taller de Vilassar de Dalt, clica el teler (acció Usar o exploració automàtica): **or, blau, blanc**.
@@ -10,6 +11,11 @@
 8. Mira el registre i obre el bagul: **1880**. Reps cobertes, paper fi i carbonet.
 9. A Sant Cristòfol, usa el paper sobre el relleu i després el carbonet sobre el relleu.
 10. Al Montcabrer, usa el vidre polit amb la vista del Maresme. Clica les pedres: **llavor, ona, estrella**.
+10b. Amb Època, torna a 2026. A La Concòrdia, parla amb la Nora i demana records per al quadern: obtens la fotografia.
+10c. Al Casal de la Gent Gran, usa la fotografia amb la Joana: obtens el testimoni.
+10d. A Mas Maria, clica la mostra i tria **La creativitat i les mans**.
+10e. A L’Olivera, clica la mostra i tria **Escoltar què hi veu l’altra persona**.
+10f. A La Fàbrica, clica la taula i ordena **mirar, escoltar, compartir**. Obtens la cinta. Torna a 1956 amb Època.
 11. Torna a la taula d’enquadernar: **aigua, mar, cel**.
 12. A Ca l’Arlot, usa el quadern relligat amb Josefa. Epíleg.
 
