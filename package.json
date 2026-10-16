@@ -1,0 +1,1 @@
+{"name":"el-fil-de-la-llum","version":"1.0.0","type":"module","scripts":{"test":"node --test tests/*.test.js"}}
