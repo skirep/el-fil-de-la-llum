@@ -10,6 +10,7 @@
 7. A casa de l’enquadernador de Vilassar de Dalt, usa la carta amb l’Elies.
 8. Mira el registre i obre el bagul: **1880**. Reps cobertes, paper fi i carbonet.
 9. A Sant Cristòfol, usa el paper sobre el relleu i després el carbonet sobre el relleu.
+9b. Al Montcabrer, parla amb el Capità Desmemòria. Guanya tres intercanvis: tria la rèplica que gira la metàfora (seguir la història, retallar la seva mala memòria, recollir el seu enginy endarrerit). Pots repetir.
 10. Al Montcabrer, usa el vidre polit amb la vista del Maresme. Clica les pedres: **llavor, ona, estrella**.
 10b. Amb Època, torna a 2026. A La Concòrdia, parla amb la Nora i demana records per al quadern: obtens la fotografia.
 10c. Al Casal de la Gent Gran, usa la fotografia amb la Joana: obtens el testimoni.

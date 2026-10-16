@@ -6,7 +6,7 @@ Aventura gràfica original en català, inspirada en la vida de **Josefa Tolrà i
 
 ## L’aventura
 
-La Clara, una jove enquadernadora fictícia de 2026, travessa una espiral temporal i ajuda la Pepeta a recuperar tres fulls d’un quadern dispers pel vent. Per relligar-lo necessita tant els fulls del passat com la memòria compartida del present. Tres actes, set personatges amb diàlegs ramificats, inventari combinable, enigmes sense morts ni bloquejos irreversibles, pistes graduals, quadern de notes, mapa, desament automàtic i música ambiental original sintetitzada.
+La Clara, una jove enquadernadora fictícia de 2026, travessa una espiral temporal i ajuda la Pepeta a recuperar tres fulls d’un quadern dispers pel vent. Per relligar-lo necessita tant els fulls del passat com la memòria compartida del present. Tres actes, vuit personatges amb diàlegs ramificats, inventari combinable, enigmes sense morts ni bloquejos irreversibles, un duel d’insults amb espases de paper i rèpliques enginyoses originals, pistes graduals, quadern de notes, mapa, desament automàtic i música ambiental original sintetitzada.
 
 Durada objectiu: aproximadament 30 minuts en una primera partida, segons lectura, exploració i pistes. No s’ha validat amb una prova de durada amb jugadors externs.
 
@@ -62,3 +62,7 @@ Fons originals creats amb la generació d’imatges integrada. `assets/maresme.w
 - [Plaça del Mil·lenari, cartografia municipal](https://www.cabrils.cat/media/repository/POUM/Normes_urbanistiques._Annex_I.pdf)
 
 `assets/present.webp`: sis escenaris originals del Cabrils actual, creats amb la generació d’imatges integrada. Prompt: atlas de sis espais comunitaris actuals en pixel art mediterrani amb llum daurada i ombres turquesa, sense persones ni logos; interpretacions artístiques de La Concòrdia, el casal, La Fàbrica, la plaça i les dues escoles.
+
+## Duel d’insults
+
+El Capità Desmemòria és un antagonista fantàstic original que guarda el full del cel al Montcabrer de 1956. El duel té animació de dues figures amb espases de paper, atacs, parades, espurnes i un efecte sonor si el so està activat. Cada provocació proposa tres rèpliques: la correcta gira la metàfora del rival. Primera persona amb tres punts guanya. Una derrota permet repetir sense perdre objectes. Sis provocacions i divuit rèpliques originals; cap text de Monkey Island ni altres jocs s’ha reutilitzat.
