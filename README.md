@@ -66,3 +66,9 @@ Fons originals creats amb la generació d’imatges integrada. `assets/maresme.w
 ## Duel d’insults
 
 El Capità Desmemòria és un antagonista fantàstic original que guarda el full del cel al Montcabrer de 1956. El duel té animació de dues figures amb espases de paper, atacs, parades, espurnes i un efecte sonor si el so està activat. Cada provocació proposa tres rèpliques: la correcta gira la metàfora del rival. Primera persona amb tres punts guanya. Una derrota permet repetir sense perdre objectes. Sis provocacions i divuit rèpliques originals; cap text de Monkey Island ni altres jocs s’ha reutilitzat.
+
+## Personatges revisats
+
+Nou atlas amb transparència, figures de proporcions adultes, rostres i vestuari detallats, dues poses per identitat i poses d’esgrima de la Clara. Renderitzador compartit entre aventura i duel, orientació segons la conversa, passes alternades i retrats de diàleg. La Nora i la Joana tenen aparença pròpia. La Pepeta és una interpretació artística, no un retrat documental.
+
+Asset: `assets/characters.webp`. Creat amb generació d’imatges integrada. Especificació: atlas transparent de quatre columnes i cinc files, figures adultes de proporcions naturals en pixel art pintat de 32 bits, dues poses coherents per personatge, cares expressives, roba catalana de 1956 o contemporània segons el personatge, llum mediterrània i ombres turquesa. Sense fons, textos ni figures geomètriques.
